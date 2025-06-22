@@ -7,5 +7,5 @@ int main()
     cin>>a;
     p=a*a;
     cout<<"Square of "<<a<<" is "<<p<<endl;
-    
+    cout<<"Square root of "<<p<<" is "<<a<<endl;
 }
